@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059848617240",
+    "firebase_url": "https://consumerfirst-72ee3.firebaseio.com",
+    "project_id": "consumerfirst-72ee3",
+    "storage_bucket": "consumerfirst-72ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059848617240:android:f42e0f6b4a1ea932",
+        "android_client_info": {
+          "package_name": "com.wizmobi.consumerfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059848617240-37f83cgu5hul344sh6qlfl5drqg9aoui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIknL0rB77hJZzce_ZIkWYWY41P4CteRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
